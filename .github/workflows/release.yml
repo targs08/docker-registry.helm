@@ -4,7 +4,7 @@ name: Release Charts
 on:
   push:
     branches:
-      - master
+      - daemon-set-support
 
 jobs:
   release:
